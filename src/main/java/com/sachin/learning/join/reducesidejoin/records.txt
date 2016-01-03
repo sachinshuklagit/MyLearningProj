@@ -1,0 +1,6 @@
+#fields separated by tab
+#StationId      Timestamp       Temperature
+12345-120       2014-04-22      78
+8989-1010       2014-03-01      100
+12345-120       2014-04-26      55
+8989-1010       2014-04-22      111

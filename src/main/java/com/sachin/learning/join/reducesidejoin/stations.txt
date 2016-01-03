@@ -1,0 +1,4 @@
+#fields separated by tab
+#StationId      StationName
+12345-120       New York
+8989-1010       San Francisco
